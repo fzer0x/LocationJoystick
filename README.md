@@ -14,7 +14,6 @@ PokeGoControle is an Xposed module designed for location simulation, specificall
 - **Customizable UI:** 
     - Adjust joystick and minimap transparency (alpha).
     - Configurable joystick speed.
-    - Persistent joystick position.
 
 ## Requirements
 
