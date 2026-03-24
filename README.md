@@ -1,6 +1,6 @@
-# LocationController
+# Location Joystick
 
-LocationController is an Xposed module designed for location simulation. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
+Location Joystick is an Xposed module designed for location simulation. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
 
 ## Features
 
@@ -26,12 +26,12 @@ LocationController is an Xposed module designed for location simulation. It prov
 
 ## Installation
 
-1. Install the LocationController APK.
+1. Install the Location Joystick APK.
 2. Open your Xposed Manager (e.g., LSPosed).
-3. Enable the **LocationController** module.
+3. Enable the **Location Joystick** module.
 4. Select the target apps in the module's scope.
 5. Reboot your device (or force stop the target app if using LSPosed).
-6. Open LocationController and grant the necessary permissions (Overlay, Location).
+6. Open Location Joystick and grant the necessary permissions (Overlay, Location).
 
 ## Usage
 
