@@ -5,6 +5,10 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 ![Screenshot](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot.jpg?raw=true)
 
 ## Changelog
+### 2.1.0
+- **Baidu Maps Integration:** Added Baidu Maps as a secondary map provider for improved coverage in certain regions.
+- **Provider Selection:** Easily toggle between OSMroid and Baidu Maps in the app settings.
+
 ### 2.0.3
 - FIX: Keyboard and Back button now work correctly in all apps while the overlay is running
 - Improved overlay focus management (only requests focus when text input is active)
