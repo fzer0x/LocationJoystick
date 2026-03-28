@@ -6,6 +6,11 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 
 ## Changelog
 
+### 2.3.0
+- Improve performance for synchronization
+- Improve stability
+- Fix some issues
+
 ### 2.2.9
 - Final App Update Loop fix for MIUI Devices
 
