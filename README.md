@@ -2,6 +2,8 @@
 
 Location Joystick is an Xposed module designed for location simulation. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
 
+⚠️ **[NEW] No Root/Xposed functionality (Mock Location)** ⚠️
+
 <div align="center">
 
 ## 🚀 JOIN OUR COMMUNITY 🚀
