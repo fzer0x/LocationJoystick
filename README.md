@@ -18,7 +18,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 
 # Latest Release: https://github.com/fzer0x/LocationJoystick-Premium/releases
 
-![Screenshot](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot.jpg?raw=true)
+![Screenshot](https://github.com/fzer0x/LocationJoystick/blob/main/screenshot.jpg?raw=true)
 
 ## Features
 
