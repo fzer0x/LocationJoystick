@@ -14,7 +14,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
   <img src="https://img.shields.io/badge/👉_CLICK_HERE_TO_JOIN-FF0000?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-🔥 Join and get free giveaways & updates!
+🔥 Join and get support & updates!
 
 </div>
 
