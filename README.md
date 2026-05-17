@@ -6,7 +6,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 
 ⚠️ **[NEW] No Root/Xposed functionality (Mock Location)** ⚠️
 
-### LATEST RELEASE: https://github.com/fzer0x/LocationJoystick_V4/releases
+# LATEST RELEASE: https://github.com/fzer0x/LocationJoystick_V4/releases
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Location Joystick 是一款用于模拟定位的 Xposed 模块。它提供了一
 
 🔥 加入即可获取免费福利与最新更新！
 
-### LATEST RELEASE: https://github.com/fzer0x/LocationJoystick_V4/releases
+# LATEST RELEASE: https://github.com/fzer0x/LocationJoystick_V4/releases
 
 </div>
 
