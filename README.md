@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=fzer0x&project=LocationJoystick&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Location Joystick
 
 ## English
